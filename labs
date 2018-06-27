@@ -1,4 +1,7 @@
-lab;bastion to apache installation
+lab1; bastion to apache installation
 35.167.86.200
-s3 static web hosting
-end point url https://s3-us-west-2.amazonaws.com/ragaava/index.html
+lab2; s3 static web hosting
+end point url
+https://s3-us-west-2.amazonaws.com/ragaava/index.html
+lab3; install the apache with shell scripting
+35.167.86.200
