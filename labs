@@ -5,3 +5,6 @@ end point url
 https://s3-us-west-2.amazonaws.com/ragaava/index.html
 lab3; install the apache with shell scripting
 35.167.86.200
+load balancer
+nginx 18.237.107.217
+apache 35.163.10.13
