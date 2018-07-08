@@ -8,3 +8,5 @@ lab3; install the apache with shell scripting
 load balancer
 nginx 18.237.107.217
 apache 35.163.10.13
+jenkins lab
+http://13.232.140.188:8080/jenkins/
