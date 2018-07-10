@@ -12,3 +12,5 @@ jenkins lab
 http://13.232.140.188:8080/jenkins/
 app load balancer with apache
 applicationlb-1292337999.us-west-2.elb.amazonaws.com 
+route 53
+www.awsraghava.cf
